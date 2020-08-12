@@ -1,6 +1,6 @@
 ## Hey, I'm Joao Victor and be welcome to my profile 😄 !
 
-### I'm passionate about web and mobile programming, JavaScript Stack first, and almost a Telecommunications Engineer which will graduate this year 2020.
+### I'm focused on web and mobile programming, always learning and improving (JavaScript stack at this moment), and almost a Telecommunications Engineer which will graduate this year 2020.
 
 Make sure to check it out my repositories and don't hesitate to contact me. I'm looking for a great opportunity in software development. Thank you!
 
