@@ -1,8 +1,10 @@
 ## Hey, I'm Joao Victor and be welcome to my profile 😄 !
 
-### I'm focused on web and mobile programming, always learning and improving (JavaScript stack at this moment), and almost a Telecommunications Engineer which will graduate this year 2020.
+### I'm a Software Engineering always learning and improving my skills in BackEnd and FrontEnd Web development, currently working with TypeScript, ReactJS, Python, Django, Redux-Saga, PostgreSQL, Jest, Bitbucket, Jira, Scrum...etc. 
 
-Make sure to check it out my repositories and don't hesitate to contact me. I'm looking for a great opportunity in software development. Thank you!
+### And also I hold a degree in Telecommunications Engineering granted by Federal University of Ceara.
+
+Make sure to check it out my repositories and don't hesitate to contact me. Thank you!
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-victor-de-andrade-mesquita-848a09122/)](https://www.linkedin.com/in/jo%C3%A3o-victor-de-andrade-mesquita-848a09122/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:joaovictorengp@gmail.com)](mailto:joaovictorengp@gmail.com)
