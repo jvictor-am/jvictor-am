@@ -1,6 +1,6 @@
 ## Hey, I'm Joao Victor and be welcome to my profile 😄 !
 
-### I'm a Software Engineering always learning and improving my skills in BackEnd and FrontEnd Web development, currently working with TypeScript, ReactJS, Python, Django, Redux-Saga, PostgreSQL, Jest, Bitbucket, Jira, Scrum...etc. 
+### I'm a Software Engineering with skills in BackEnd/FrontEnd development and experience working with Python, DRF, Pytest, Celery, TypeScript, ReactJS, Redux-Saga, PostgreSQL, Jest, Bitbucket, Jira, Azure, Rancher, Scrum...etc.
 
 ### And also I hold a degree in Telecommunications Engineering granted by Federal University of Ceara.
 
